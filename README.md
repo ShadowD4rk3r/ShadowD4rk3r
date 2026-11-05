@@ -55,7 +55,5 @@
  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowD4rk3r&layout=donut&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowD4rk3r&layout=donut&langs_count=6&theme=midnight-purple)
 
 <div align="center">
-  <br />
-  <img src="https://raw.githubusercontent.com/ShadowD4rk3r/ShadowD4rk3r/output/github-contribution-grid-snake.svg" alt="Snake Eating Graph" width="80%" />
-  <p><i>Watch the snake weave through my free-time contribution graph.</i></p>
+  <img src="https://raw.githubusercontent.com/ShadowD4rk3r/ShadowD4rk3r/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>

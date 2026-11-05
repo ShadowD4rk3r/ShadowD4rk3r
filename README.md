@@ -52,11 +52,7 @@
 ---
 
 ## 📊 Shadow Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowD4rk3r&show_icons=true&theme=tokyonight&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&bg_color=111111" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowD4rk3r&layout=compact&theme=tokyonight&hide_border=true&title_color=D4AF37&text_color=FFFFFF&bg_color=111111" alt="Top Languages" width="48%" />
-</p>
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowD4rk3r&layout=donut&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowD4rk3r&layout=donut&langs_count=6&theme=midnight-purple)
 
 <div align="center">
   <br />

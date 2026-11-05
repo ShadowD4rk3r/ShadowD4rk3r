@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://demolab.com;🔥+MELTING+THE+WAX+✨" alt="Icarus Typing Animation" />
+<!-- REFRESHED TYPING HEADER -->
+![Icarus Animation](https://demolab.com;🔥+MELTING+THE+WAX+✨)
 
 ### 𓆃 *“What is a bug but code that soared too close to the compiler?”* 𓆃
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Aesthetic" />
+  <img src="https://shields.io" alt="Role" />
 </p>
 
 ---
@@ -23,16 +23,15 @@
 ```
 
 * **🔱 Current Quest:** Currently attempting to make a Minecraft Mod that is Hades related.
-* **🪶 Wings Built With:** Java and Python and a wee bit of C.
+* **🪶 Wings Built With:** Java, Python, and a wee bit of C.
 * **🔥 Latest Burn:** Finding a bug in a side project that completely melts the whole build down. (Worth it.)
 
 ## 🛠️ The Forge (My Playground)
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="Git" />
 </p>
 
 ## 📊 Shadow Analytics

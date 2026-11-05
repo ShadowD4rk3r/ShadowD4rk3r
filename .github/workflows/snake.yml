@@ -29,7 +29,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/icarus-snake.svg?color_snake=#D4AF37&color_dots=#111111,#332200,#664400,#996600,#D4AF37
+            dist/icarus-snake.svg?color_snake=#8A2BE2&color_dots=#2d1500,#8b4500,#cc6600,#ff8c00,#ffb732
           
       # 2. Push the generated files to the 'output' branch
       - name: Push snake animation to output branch

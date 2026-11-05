@@ -55,5 +55,5 @@
  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowD4rk3r&layout=donut&langs_count=6&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowD4rk3r&layout=donut&langs_count=6&theme=midnight-purple)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShadowD4rk3r/ShadowD4rk3r/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/ShadowD4rk3r/ShadowD4rk3r/output/icarus-snake.svg" alt="Snake Animation" width="100%" />
 </div>

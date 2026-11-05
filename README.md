@@ -46,7 +46,7 @@
 
 > *“He who touches the sun must be prepared to fall, but the view along the way makes it worthwhile.”*
 
-- ⚔️ **Hades-Inspired Minecraft Mod:** A custom mod bringing roguelike elements, mythological mechanics, and underworld abilities into Minecraft using Java.
+- ⚔️ **Hades-Inspired Minecraft Mod:** A custom mod bringing roguelike elements, mythological mechanics, and underworld abilities into Minecraft using Java (WIP Still).
 - 🧪 **Free-Time Scripts & Tools:** Experiments in Python and C testing system logic, automation, and mini algorithms.
 
 ---

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=THE+FALL+OF+ICARUS;FLYING+TOO+CLOSE+TO+THE+SUN;🔥+MELTING+THE+WAX+✨;BOUNDLESS+SIDE+PROJECTS" alt="Icarus Typing Animation" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=46&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=THE+FALL+OF+ICARUS;FLYING+TOO+CLOSE+TO+THE+SUN;%F0%9F%94%A5+MELTING+THE+WAX+%E2%9C%A8;BOUNDLESS+SIDE+PROJECT)](https://git.io/typing-svg)
 
 ### 𓆃 *“What is a bug but code that soared too close to the compiler?”* 𓆃
 

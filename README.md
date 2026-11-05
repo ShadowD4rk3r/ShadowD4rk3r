@@ -1,13 +1,14 @@
 <div align="center">
 
-<!-- REFRESHED TYPING HEADER -->
-![Icarus Animation](https://demolab.com;🔥+MELTING+THE+WAX+✨)
+<!-- ANIMATED TYPING HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=26&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=THE+FALL+OF+ICARUS;FLYING+TOO+CLOSE+TO+THE+SUN;🔥+MELTING+THE+WAX+✨;BOUNDLESS+SIDE+PROJECTS" alt="Icarus Typing Animation" />
 
 ### 𓆃 *“What is a bug but code that soared too close to the compiler?”* 𓆃
 
 <p align="center">
-  <img src="https://shields.io" alt="Aesthetic" />
-  <img src="https://shields.io" alt="Role" />
+  <img src="https://img.shields.io/badge/Aesthetic-Greek_Mythology-D4AF37?style=for-the-badge&logoColor=black&labelColor=111111" alt="Aesthetic" />
+  <img src="https://img.shields.io/badge/Status-Hobbyist_Coder-D4AF37?style=for-the-badge&logoColor=black&labelColor=111111" alt="Status" />
+  <img src="https://img.shields.io/badge/Wings-Forged_in_Code-D4AF37?style=for-the-badge&logoColor=black&labelColor=111111" alt="Wings" />
 </p>
 
 ---
@@ -15,33 +16,50 @@
 </div>
 
 ## ☀️ The Ascent (About Me)
-```txt
+
+<pre>
       .   ▲   .       I am a passionate hobbyist programmer spending my free time
      .   / \   .      forging small side projects and experimenting with new tech.
     .   /___\   .     Like Icarus, I build my own wings out of lines of code—
    .   /     \   .    testing boundaries just to see how high the logic can go.
-```
+</pre>
 
-* **🔱 Current Quest:** Currently attempting to make a Minecraft Mod that is Hades related.
-* **🪶 Wings Built With:** Java, Python, and a wee bit of C.
-* **🔥 Latest Burn:** Finding a bug in a side project that completely melts the whole build down. (Worth it.)
+- **🔱 Current Quest:** Currently attempting to make a Minecraft Mod that is Hades related.
+- **🪶 Wings Built With:** Java, Python, and a wee bit of C.
+- **🔥 Latest Burn:** Finding a bug in a side project that completely melts the whole build down. (Worth it.)
+
+---
 
 ## 🛠️ The Forge (My Playground)
+
 <p align="left">
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Minecraft_Modding-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Modding" />
 </p>
 
+---
+
+## 🏛️ Side Projects & Experiments
+
+> *“He who touches the sun must be prepared to fall, but the view along the way makes it worthwhile.”*
+
+- ⚔️ **Hades-Inspired Minecraft Mod:** A custom mod bringing roguelike elements, mythological mechanics, and underworld abilities into Minecraft using Java.
+- 🧪 **Free-Time Scripts & Tools:** Experiments in Python and C testing system logic, automation, and mini algorithms.
+
+---
+
 ## 📊 Shadow Analytics
+
 <p align="center">
-  <img src="https://github.io" alt="GitHub Stats" width="48%" />
-  <img src="https://github.io" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowD4rk3r&show_icons=true&theme=tokyonight&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&bg_color=111111" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowD4rk3r&layout=compact&theme=tokyonight&hide_border=true&title_color=D4AF37&text_color=FFFFFF&bg_color=111111" alt="Top Languages" width="48%" />
 </p>
 
 <div align="center">
   <br />
-  <img src="https://githubusercontent.com" alt="Snake Eating Graph" width="80%" />
+  <img src="https://raw.githubusercontent.com/ShadowD4rk3r/ShadowD4rk3r/output/github-contribution-grid-snake.svg" alt="Snake Eating Graph" width="80%" />
   <p><i>Watch the snake weave through my free-time contribution graph.</i></p>
 </div>
